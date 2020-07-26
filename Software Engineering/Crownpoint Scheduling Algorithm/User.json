@@ -1,0 +1,102 @@
+[
+  {
+    "Name": "Toshio",
+    "Available Days": [ "Mon", "Wed", "Thu" ],
+    "Preferred Age": "adult"
+  },
+  {
+    "Name": "Anthony",
+    "Available Days": [ "Tue", "Mon", "Thu" ],
+    "Preferred Age": "adult"
+  },
+  {
+    "Name": "Jaesic",
+    "Available Days": [ "Tue", "Wed", "Mon" ],
+    "Preferred Age": "pediatric"
+  },
+  {
+    "Name": "Joaquin",
+    "Available Days": [ "Mon", "Fri", "Wed" ],
+    "Preferred Age": "family"
+  },
+  {
+    "Name": "Jack",
+    "Available Days": [ "Tue", "Mon", "Thu" ],
+    "Preferred Age": "family"
+  },
+  {
+    "Name": "Jill",
+    "Available Days": [ "Mon", "Wed", "Fri" ],
+    "Preferred Age": "adult"
+  },
+  {
+    "Name": "Ant",
+    "Available Days": [ "Tue", "Fri", "Mon" ],
+    "Preferred Age": "adult"
+  },
+  {
+    "Name": "Man",
+    "Available Days": [ "Tue", "Wed", "Fri" ],
+    "Preferred Age": "pediatric"
+  },
+  {
+    "Name": "Tony",
+    "Available Days": [ "Tue", "Fri", "Wed" ],
+    "Preferred Age": "family"
+  },
+  {
+    "Name": "Chris",
+    "Available Days": [ "Wed", "Fri", "Thu" ],
+    "Preferred Age": "family"
+  },
+  {
+    "Name": "Banner",
+    "Available Days": [ "Mon", "Wed", "Thu" ],
+    "Preferred Age": "adult"
+  },
+  {
+    "Name": "Thor",
+    "Available Days": [ "Tue", "Fri", "Thu" ],
+    "Preferred Age": "adult"
+  },
+  {
+    "Name": "Spiderman",
+    "Available Days": [ "Tue", "Wed", "Thu" ],
+    "Preferred Age": "pediatric"
+  },
+  {
+    "Name": "Daniel",
+    "Available Days": [ "Tue", "Wed", "Thu" ],
+    "Preferred Age": "family"
+  },
+  {
+    "Name": "Toby",
+    "Available Days": [ "Tue", "Fri", "Mon" ],
+    "Preferred Age": "family"
+  },
+  {
+    "Name": "Billy",
+    "Available Days": [ "Mon", "Wed", "Thu" ],
+    "Preferred Age": "adult"
+  },
+  {
+    "Name": "Edward",
+    "Available Days": [ "Tue", "Fri", "Thu" ],
+    "Preferred Age": "adult"
+  },
+  {
+    "Name": "Nava",
+    "Available Days": [ "Mon", "Wed", "Thu" ],
+    "Preferred Age": "pediatric"
+  },
+  {
+    "Name": "Happy",
+    "Available Days": [ "Tue", "Wed", "Mon" ],
+    "Preferred Age": "family"
+  },
+  {
+    "Name": "Sad",
+    "Available Days": [ "Tue", "Fri", "Wed" ],
+    "Preferred Age": "family"
+  }
+]
