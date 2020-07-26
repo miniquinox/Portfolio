@@ -1,0 +1,168 @@
+[
+    {
+        "label": 140, 
+        "ssm": "normal", 
+        "fields": {
+            "spare11_14": 0, 
+            "data": 5 
+        },
+        "sdi": 0,
+        "parity": 0 
+    },
+    {
+        "label": 141, 
+        "ssm": "normal", 
+        "fields": {
+            "spare11_16": 0, 
+            "data": 4
+        },        
+        "sdi": 0,
+        "parity": 0 
+    },
+    {
+        "label": 273, 
+        "ssm": "normal", 
+        "fields": { 
+            "spare11": 0,
+            "alt_armed": 0,
+            "nav_armed": 1,
+            "lnav_armed": 0,
+            "vnav_armed": 0,
+            "bc_armed": 1,
+            "loc_armed": 0,
+            "apr_armed": 1,
+            "vgp_armed": 0, 
+            "spare20_21": 2, 
+            "gs_armed": 0,
+            "vor_armed": 1,
+            "spare24_29": 4 
+        },
+        "sdi": 0,
+        "parity": 0 
+    },
+    {
+        "label": 274, 
+        "ssm": "normal", 
+        "fields": { 
+            "ias_mode": 0,
+            "vnav_mode": 1,
+            "alt_hold_mode": 0,
+            "vs_mode": 1,
+            "toga_around_mode": 0,
+            "ga_mode": 1,
+            "vgp_active": 0,
+            "envelope_protect": 0,
+            "gs_mode": 0,
+            "gp_mode": 0,
+            "vpth_mode": 0,
+            "level_mode": 0,
+            "spare23": 0, 
+            "cws_engaged": 0,
+            "spare26": 1, 
+            "flash_vert_mode": 0,
+            "pitch_mode": 0,
+            "capture_sub_mode": 0
+        },
+        "sdi": 0,
+        "parity": 0 
+    },
+    {
+        "label": 275, 
+        "ssm": "normal", 
+        "fields": { 
+            "lnav_sub_mode": 0,
+            "hdg_mode": 0,
+            "half_bank_active": 0,
+            "bc_sub_mode": 0,
+            "loc_sub_mode": 0,
+            "spare16": 0,
+            "ga_mode": 0,
+            "straight_and_level": 0,
+            "spare19": 0,
+            "roll_mode": 0,
+            "capture_sub_mode": 0,
+            "vor_sub_mode": 0,
+            "track_sub_mode": 0,
+            "level_mode": 0,
+            "intercept_sub_mode": 0,
+            "nav_mode": 0,
+            "apr_mode": 0,
+            "flash_ap_lateral_mode": 0,
+            "tcs_mode": 0
+        },
+        "sdi": 0,
+        "parity": 0 
+    },
+    {
+        "label": 300, 
+        "ssm": "normal", 
+        "fields": { 
+            "yaw_trim_status": 0, 
+            "roll_trim_status": 0, 
+            "ap_engaged": 0,
+            "fd_engaged": 0,
+            "yd_selected": 0,
+            "ap_status": 3, 
+            "lateral_arm_status": 0,
+            "lateral_mode_status": 0,
+            "vertical_arm_status": 0,
+            "gs_arm_status": 0,
+            "vert_mode_status": 0,
+            "pitch_trim_status": 3 
+        },
+        "sdi": 0,
+        "parity": 0 
+    },
+    {
+        "label": 301, 
+        "ssm": "normal", 
+        "fields": { 
+            "underspeed": 0,
+            "overspeed": 0,
+            "speed_protect": 0,
+            "bank_limit": 0,
+            "servo_limit": 0,
+            "servo_fail": 0,
+            "trimming": 0,
+            "no_pfd_comm": 0,
+            "spare19_27": 0, 
+            "ap_inop": 0,
+            "ap_disconnect": 0
+        },
+        "sdi": 0,
+        "parity": 0 
+    },
+    {
+        "label": 102, 
+        "ssm": "normal", 
+        "fields": {
+            "altitude_select_knob": 1,
+            "spare12": 0,
+            "data": 7501
+        },
+        "sdi": 0,
+        "parity": 0
+    },
+    {
+        "label": 103, 
+        "ssm": "normal", 
+        "fields": {
+            "airspeed_select_knob": 1,
+            "spare12_17": 0,  
+            "data": 73
+        },
+        "sdi": 0,
+        "parity": 0 
+    },
+    {
+        "label": 104, 
+        "ssm": "normal", 
+        "fields": {
+            "vertspeed_select_knob": 1,
+            "spare12_14": 0,  
+            "data": 1000
+        },
+        "sdi": 0,
+        "parity": 0 
+    }
+]
