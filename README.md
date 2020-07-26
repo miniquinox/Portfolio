@@ -1,7 +1,7 @@
 # Portfolio
 
 Hello guys! My name is Joaquin Carretero and I am a Computer Engineer 
-    with background in Electrical and Mechanical Engineering!
+    with background in Electrical and Mechanical Engineering.
 
 I will be posting and updating this repository with different projects 
     I have worked on over the past few years and some that I am currently
