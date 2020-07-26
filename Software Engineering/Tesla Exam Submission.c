@@ -4,7 +4,7 @@
 #include <stdbool.h>
  
 ////////////////////////////////////////////////////////////////////////////////
-/* TESLA MOTORS FIRMWARE TEST
+/* TESLA MOTORS FIRMWARE TEST      SCORE: 100%
  * You have 120 minutes to complete the test. There are 100 points total.
  *
  * All solutions should compile in Coderpad.io without error or warnings
