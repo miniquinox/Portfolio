@@ -11,9 +11,9 @@ There is a separate folder for each Engineering branch. Please do not share
     the content of these programs/circuits/3D models because some of them 
     are currently under review for being patented.
     
-I went to the University of New Mexico but I currently live in the San Franciso
-    Bay Area, looking for full time Engineering positions and willing to 
-    relocate anywhere i have applied.
+I graduated from the University of New Mexico but I currently live in the 
+    San Franciso Bay Area, looking for full time Engineering positions and 
+    willing to relocate.
     
 You are welcome to reach me via:
     Email: quinocarreteromartinez@gmail.com
