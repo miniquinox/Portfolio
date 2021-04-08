@@ -23,7 +23,7 @@ to take care of duplicate work by skipping comparisons already made. For example
 After comparing sample.1 and sample.2, it will skip sample.2 and sample.1 comparison,
 leaving 45 total comparisons.
 
-## The script can me ran with no need to install additional libraries. Here is the performance:
+## The script can run with no need to install additional libraries. Here is the performance:
 m = number of files
 n = time to parse all info from files to an array
 v = length of all files 
