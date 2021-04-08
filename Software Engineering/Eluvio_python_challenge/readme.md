@@ -12,7 +12,13 @@ The program "script.py" is written in Python3 and it follows the following crite
 
 ### Given the 10 test files that were posted by Eluvio, these were the results:
 Max array size = 27648   
-Found in files:  ['sample.1', 'sample.2', 'sample.3', 'sample.4', 'sample.5', 'sample.6', 'sample.7', 'sample.8', 'sample.9', 'sample.10'],   
-Offset: 3072.  
+Found in files:  ['sample.1', 'sample.2', 'sample.3', 'sample.4', 'sample.5', 'sample.6', 'sample.7', 'sample.8', 'sample.9', 'sample.10']   
+Offset: 3072  
 
-Given 10 files, this would make 100 comparisons, but the program properly adjusted 
+The program does the following:
+Loops through all files, extracts the information and puts it into an array. 
+
+Given 10 files, this would make 100 comparisons, but the program is properly adjusted 
+to take care of duplicate work by skipping comparisons already made. For example, 
+After comparing sample.1 and sample.2, it will skip sample.2 and sample.1 comparison,
+leaving 45 total comparisons.
