@@ -24,8 +24,8 @@ After comparing sample.1 and sample.2, it will skip sample.2 and sample.1 compar
 leaving 45 total comparisons.
 
 ## The script can run with no need to install additional libraries. Here is the performance:
-m = number of files  
 n = time to parse all info from files to an array  
+m = number of files  
 v = length of all files   
 
 n + (m*log(m) * v(logv))  
