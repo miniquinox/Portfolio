@@ -30,5 +30,5 @@ v = length of all files
 
 n + (m*log(m) * v(logv))
 
-v is neglected since it is constant (Only ran 1 time), so final performance is:
-***(m*log(m) * v(logv))
+v is neglected since it is constant (Only ran 1 time), so final performance is:  
+*** (m*log(m) * v(logv))
