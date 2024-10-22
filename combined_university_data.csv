@@ -1,4 +1,4 @@
-University,Year,Headcount,Average Salary,Student to Faculty Ratio,Total Grading Hours per Month,Salary per Hour,Current Grading Cost,Time Saved per Professor Using ExamAi,Money Saved per Professor,Total Cost Savings for the University,Cost of ExamAi Tool
+University,Year,Headcount,Average Salary ($),Student to Faculty Ratio,Total Grading Hours per Month (hrs),Salary per Hour ($/hr),Current Grading Cost ($),Time Saved per Professor Using ExamAi (hrs),Money Saved per Professor ($/year),Total Cost Savings for the University ($/year),Cost of ExamAi Tool ($/month)
 Sullivan University,2022-2023,104,65131,13,2080,31.31,65131,1040,32565.5,3386812,2080
 Central Washington University,2022-2023,491,80980,14,9820,38.93,382319.04,4910,191159.52,93859323.94,9820
 Rogers State University,2022-2023,90,50566,16,1800,24.31,43759.04,900,21879.52,1969156.73,1800
